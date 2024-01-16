@@ -1,0 +1,1 @@
+Implemented and evaluated prototype-based classification methods for unseen classes in an animal image dataset using class attribute vectors, achieving test-set accuracy through convex combination similarity modeling and linear regression-based mean prediction.
